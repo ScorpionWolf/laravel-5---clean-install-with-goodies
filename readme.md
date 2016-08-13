@@ -8,10 +8,10 @@
 
 #Contents :
 CSS:
-- Bootstrap v3.3.6
-JS: <br />
+- Bootstrap v3.3.6 <br />
+JS:
 - jQuery v2.2.4
-- Bootstrap v3.3.6
-Packages: <br />
+- Bootstrap v3.3.6<br />
+Packages:
 - Laravel Collective 5.2.*
 - Laravel Socialite 2.0.18
