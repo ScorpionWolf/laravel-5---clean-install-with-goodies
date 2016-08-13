@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e11bbd87-2a54-4e6c-919b-db0b782141c4" name="1stanniversary.com" url="http://192.241.134.226">
+        <fileTransfer host="192.241.134.226" port="21" password="dfe3dfc2dffedfc4dfe9dfe9dffbdfc0df9edfe2df9cdfe3dfe9dfefdffb" username="1stanniversaryideas">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="79279c26-3660-45ba-b1f9-09de63d21cc6" name="laravel.yourplaceholder.com" url="http://laravel.yourplaceholder.com">
+        <fileTransfer host="laravel.yourplaceholder.com" port="21" password="dfdedfcfdfc2df9ddf9ddfcddfc8df93" username="laravel">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
