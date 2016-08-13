@@ -8,7 +8,7 @@
 
 #Contents :
 
-CSS:<br />
+<strong>CSS:<strong/><br />
 1. Bootstrap v3.3.6 <br />
 JS: <br />
 jQuery v2.2.4
