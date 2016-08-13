@@ -7,11 +7,12 @@
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
 #Contents :
+
 CSS:
-- Bootstrap v3.3.6 <br />
+1. Bootstrap v3.3.6 <br />
 JS:
-- jQuery v2.2.4
-- Bootstrap v3.3.6<br />
+jQuery v2.2.4
+1. Bootstrap v3.3.6<br />
 Packages:
-- Laravel Collective 5.2.*
-- Laravel Socialite 2.0.18
+1. Laravel Collective 5.2.*
+2. Laravel Socialite 2.0.18
